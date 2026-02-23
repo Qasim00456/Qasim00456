@@ -10,7 +10,7 @@ I love building **automated, scalable cloud infrastructure** and sharing my lear
 
 ## 📂 Projects
 - [ECS Deployment]([https://github.com/qasimjibril/ecs-project](https://github.com/Qasim00456/ECS))
-- ([Terraform Infrastructure](https://github.com/Qasim00456/wordpress-terraform)
+- [Terraform Infrastructure](https://github.com/Qasim00456/wordpress-terraform)
 
 ## 📫 Connect with me
 - [LinkedIn]([(https://www.linkedin.com/in/qasim-jibril-a5525036b/))
