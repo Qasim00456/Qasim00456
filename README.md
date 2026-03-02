@@ -1,6 +1,6 @@
 # Hi, I'm Qasim 👋
 
-I'm a DevOps enthusiast specializing in **Terraform, AWS ECS/EKS, and Kubernetes**.  
+I'm a DevOps engineer specializing in **Terraform, AWS ECS/EKS, and Kubernetes**.  
 I love building **automated, scalable cloud infrastructure** and sharing my learning journey.
 
 ## 🔧 Tech Stack
